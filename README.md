@@ -6,11 +6,11 @@ A library that make it easy to draw charts in Flutter.
 It provides a simple and easy-to-use interface for developers to create beautiful charts for their Flutter applications.
 Created by [enechain](https://enechain.co.jp/).
 
-### :rocket: Features
+### 🚀 Features
 
 - :chart_with_upwards_trend: Line Chart
 
-### :dart: Why use?
+### 🎯 Why use?
 
 - **Easy to use**: calculates the drawing range and labels automatically, making it easy to use. Of
   course, it is also possible to customize which labels to display and the range to use on the user's side.
@@ -19,7 +19,7 @@ Created by [enechain](https://enechain.co.jp/).
 - **Tooltip customization**: provides a tooltip that can be customized to display the data at the
   point of the touch.
 
-### :clapper: Sample
+### 🎬 Sample
 
 <div style="text-align: center">
     <table>
@@ -37,12 +37,12 @@ Created by [enechain](https://enechain.co.jp/).
     </table>
 </div>
 
-### :art: Usage
+### 🎨 Usage
 
 Please see the [example app](example) in the eChart Flutter
 Library GitHub repository. The example app includes sample code for creating line charts, as well as
 additional customization options.
 
-### :page_facing_up: License
+### 📄 License
 
 This library is released under the [MIT license](LICENSE).
