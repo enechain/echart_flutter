@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/enechain/echart_flutter/main/assets/cover.png" alt="eChart Flutter Header"/>
 </p>
 
-A library that make it easy to draw charts in Flutter.
+This is a library that make it easy to draw charts in Flutter.
 It provides a simple and easy-to-use interface for developers to create beautiful charts for their Flutter applications.
 Created by [enechain](https://enechain.co.jp/).
 
