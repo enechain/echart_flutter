@@ -8,7 +8,7 @@ Created by [enechain](https://enechain.co.jp/).
 
 ### 🚀 Features
 
-- :chart_with_upwards_trend: Line Chart
+- 📈 Line Chart
 
 ### 🎯 Why use?
 
@@ -39,10 +39,10 @@ Created by [enechain](https://enechain.co.jp/).
 
 ### 🎨 Usage
 
-Please see the [example app](example) in the eChart Flutter
+Please see the [example app](https://github.com/enechain/echart_flutter/tree/main/example) in the eChart Flutter
 Library GitHub repository. The example app includes sample code for creating line charts, as well as
 additional customization options.
 
 ### 📄 License
 
-This library is released under the [MIT license](LICENSE).
+This library is released under the [MIT license](https://github.com/enechain/echart_flutter/blob/main/LICENSE).
