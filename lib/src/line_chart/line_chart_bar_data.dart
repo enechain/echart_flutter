@@ -85,10 +85,12 @@ class LineChartBarData extends Equatable {
 /// The dash array of the line.
 abstract class DashArray {
   /// The dotted line.
-  static const dotted = [4.0, 4.0];
+  static List<double> dotted([double strokeWidth = 2.0]) =>
+      [0.0, 2.0 * strokeWidth];
 
   /// The dashed line.
-  static const dashed = [6.0, 4.0];
+  static List<double> dashed([double strokeWidth = 2.0]) =>
+      [3.0 * strokeWidth, 2.0 * strokeWidth];
 }
 
 /// The data point type.

@@ -22,7 +22,7 @@ Path calculateDashPath(
   Path path, {
   required CircularIntervalList<double> dashArray,
 }) {
-  assert(dashArray._values.every((value) => value > 0));
+  assert(dashArray._values.every((value) => value >= 0));
   final dashPath = Path();
   for (final metric in path.computeMetrics()) {
     var distance = 0.0;
