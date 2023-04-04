@@ -1,6 +1,6 @@
 name: echart_flutter
 description: This is a library that make it easy to draw charts in Flutter.
-version: 0.1.0+1
+version: 0.1.0+2
 homepage: https://github.com/enechain/echart_flutter
 
 environment:
