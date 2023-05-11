@@ -28,10 +28,10 @@ Created by [enechain](https://enechain.co.jp/).
                 <img src="https://raw.githubusercontent.com/enechain/echart_flutter/main/assets/sample1.gif" alt="eChart Flutter Sample 1"/>
             </td>            
             <td style="text-align: center">
-                <img src="https://raw.githubusercontent.com/enechain/echart_flutter/main/assets/sample2_animation.gif" alt="eChart Flutter Sample 2"/>
+                <img src="https://raw.githubusercontent.com/enechain/echart_flutter/main/assets/sample2_animation.gif" alt="eChart Flutter Sample 2 Animation"/>
             </td>
             <td style="text-align: center">
-                <img src="https://raw.githubusercontent.com/enechain/echart_flutter/main/assets/sample2_tooltip.gif" alt="eChart Flutter Sample 3"/>
+                <img src="https://raw.githubusercontent.com/enechain/echart_flutter/main/assets/sample2_tooltip.gif" alt="eChart Flutter Sample 2 Tooltip"/>
             </td>
         </tr>
     </table>
